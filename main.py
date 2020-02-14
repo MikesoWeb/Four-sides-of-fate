@@ -22,13 +22,13 @@ class Orc_magic(Hero):
 
 class Human_war(Hero):
   def say(self):
-    print(self.name, 'говорит: "Hello, i am Human magic!"')    
+    print(self.name, 'говорит: "Hello, i am Human war!"')    
     print()
 
 
 class Orc_war(Hero):
   def say(self):
-    print(self.name, 'говорит: "Hello, i am Human magic!"')
+    print(self.name, 'говорит: "Hello, i am Human war!"')
 
     print()
 
